@@ -1,0 +1,18 @@
+{
+  "name": "node-media-server-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon single_app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.3.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
