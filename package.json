@@ -1,10 +1,10 @@
 {
   "name": "node-media-server-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "node-media-server demo ",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon single_app.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
